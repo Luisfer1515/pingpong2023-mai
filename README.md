@@ -1,1 +1,1 @@
-# pingpong2023-mai
+# pingpong
